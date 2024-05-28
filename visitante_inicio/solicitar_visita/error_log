@@ -1,0 +1,612 @@
+[05-May-2024 00:35:20 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 00:35:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 04:34:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 04:42:48 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 10:52:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 12:59:07 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 12:59:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(21): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 12:59:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 12:59:19 America/Mexico_City] PHP Warning:  Undefined array key "user_id" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 12:59:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(21): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 13:00:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:08:16 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:15:09 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:48:26 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:50:06 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:53:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 14:53:23 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 15:28:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 15:28:37 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 15:28:39 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 40
+[05-May-2024 15:29:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssergio' in 'where clause' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(21): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:30:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssergio' in 'where clause' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(21): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:30:56 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssergio' in 'where clause' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(21): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:31:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 22
+[05-May-2024 15:31:47 America/Mexico_City] PHP Parse error:  syntax error, unexpected double-quote mark, expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 22
+[05-May-2024 15:32:16 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ssergio' in 'where clause' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:23
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php(23): PDO->query('SELECT * FROM i...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 23
+[05-May-2024 15:33:05 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:33:05 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:43 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:43 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:56 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:56 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:56 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:56 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:58 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:58 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 26
+[05-May-2024 15:34:58 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:34:58 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:35:24 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$sql" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:35:25 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$sql" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:35:32 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$sql" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 21
+[05-May-2024 15:36:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 15:36:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 15:36:58 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 15:37:26 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "." in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 15:37:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "." in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[05-May-2024 15:37:37 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$var_usuario", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 15:37:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected variable "$var_usuario", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 28
+[05-May-2024 16:05:23 America/Mexico_City] PHP Warning:  Undefined array key "apellido_materno" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 30
+[06-May-2024 10:49:03 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[06-May-2024 10:55:28 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[06-May-2024 23:22:09 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[06-May-2024 23:24:04 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[06-May-2024 23:26:37 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[07-May-2024 00:00:50 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[07-May-2024 17:35:13 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[07-May-2024 17:41:24 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[07-May-2024 23:39:32 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[09-May-2024 10:32:23 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[09-May-2024 10:36:42 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[09-May-2024 12:44:40 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[10-May-2024 15:35:27 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[10-May-2024 15:35:32 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[10-May-2024 15:35:32 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[14-May-2024 00:11:11 America/Mexico_City] PHP Warning:  Undefined variable $error in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[14-May-2024 00:11:11 America/Mexico_City] PHP Warning:  Undefined variable $statement in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 87
+[14-May-2024 00:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 87
+[14-May-2024 00:12:34 America/Mexico_City] PHP Warning:  Undefined variable $error in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[14-May-2024 00:12:34 America/Mexico_City] PHP Warning:  Undefined variable $statement in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 87
+[14-May-2024 00:12:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 87
+[14-May-2024 02:11:53 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 02:12:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 02:13:43 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 02:14:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 02:17:57 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 02:18:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'motivo_v' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 35
+[14-May-2024 03:08:30 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:58
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(58): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[14-May-2024 03:10:02 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:58
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(58): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[14-May-2024 03:12:34 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:63
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(63): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 63
+[14-May-2024 03:13:46 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:63
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(63): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 63
+[14-May-2024 03:15:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:63
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(63): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 63
+[14-May-2024 03:15:54 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:63
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(63): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 63
+[14-May-2024 03:19:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:65
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(65): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 65
+[14-May-2024 03:20:13 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:65
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(65): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 65
+[14-May-2024 03:20:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php:65
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php(65): PDO->commit()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 65
+[16-May-2024 04:09:40 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[17-May-2024 01:17:13 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[17-May-2024 01:17:13 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[17-May-2024 01:17:28 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 23
+[18-May-2024 19:28:33 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 19:28:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 19:29:34 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:29:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:29:36 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:29:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:32:47 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:32:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:32:49 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:32:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:51
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 51
+[18-May-2024 19:32:50 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:51 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:53 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:32:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 27
+[18-May-2024 19:51:51 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:51:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:51:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:51:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:52 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:53 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:54 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:55 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:55 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:56 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:57 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:57 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:58 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:58 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:59 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:59 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:52:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:16 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:17 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:19 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:34 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:35 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:36 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:36 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:53:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:58:15 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:58:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:58:17 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 19:58:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 20:48:29 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 20:48:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 20:48:50 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 20:48:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 44
+[18-May-2024 20:50:15 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:50:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:50:53 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:50:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:03 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:05 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:06 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:07 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:08 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:08 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:09 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:09 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:10 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:52:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 41
+[18-May-2024 20:55:11 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 20:55:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 20:57:34 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 20:57:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 56
+[18-May-2024 20:57:37 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:37 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:39 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:40 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:41 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 20:57:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:43 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:45 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:46 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:49 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:57 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:02:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:03:34 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:03:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:06:36 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:06:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 46
+[18-May-2024 21:07:14 America/Mexico_City] PHP Warning:  move_uploaded_file(uploads/dh.jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:07:14 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpOwLcmo&quot; to &quot;uploads/dh.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:14:18 America/Mexico_City] PHP Warning:  move_uploaded_file(http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg): Failed to open stream: HTTP wrapper does not support writeable connections in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:14:18 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpyyqdmz&quot; to &quot;http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:15:47 America/Mexico_City] PHP Warning:  move_uploaded_file(http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/Ejercicios_clase.jpg): Failed to open stream: HTTP wrapper does not support writeable connections in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:15:47 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpE57vUQ&quot; to &quot;http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/Ejercicios_clase.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:18:43 America/Mexico_City] PHP Warning:  move_uploaded_file(http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: HTTP wrapper does not support writeable connections in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:18:43 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpwrEaUl&quot; to &quot;http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:20:00 America/Mexico_City] PHP Warning:  move_uploaded_file(http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg): Failed to open stream: HTTP wrapper does not support writeable connections in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:20:00 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpbpkSya&quot; to &quot;http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:21:00 America/Mexico_City] PHP Warning:  move_uploaded_file(http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg): Failed to open stream: HTTP wrapper does not support writeable connections in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:21:00 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpTV5hBn&quot; to &quot;http://uabcs.net/pharmatechub/recursos/assets/img_perfiles/dh.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:37:10 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:37:10 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php7P4RQb&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:37:32 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/dh.jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:37:32 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpXgYY80&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/dh.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 66
+[18-May-2024 21:57:26 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 21:57:26 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpBzEQXX&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 21:58:05 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 21:58:05 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpQMMSAo&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:07:54 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:07:54 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php0S5YqL&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:08:59 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:08:59 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpCK2Qc8&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:09:54 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:09:54 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpURVxpb&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 58
+[18-May-2024 22:15:38 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:15:38 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpmz7rE2&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:16:07 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:16:07 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phphpma94&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:17:28 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/Horario.jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:17:28 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpw5SkX4&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/Horario.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:17:39 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:17:39 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpZDLrxt&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/324675237_1208874673085848_5577704349225153214_n (1).jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:18:10 America/Mexico_City] PHP Warning:  move_uploaded_file(/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/_.jpg): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[18-May-2024 22:18:10 America/Mexico_City] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php4QnpqD&quot; to &quot;/home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita../../recursos/assets/img_perfiles/_.jpg&quot; in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/proceso_registro_v.php on line 57
+[22-May-2024 19:43:13 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:43:14 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:43:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:46:38 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:56:44 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:58:35 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 19:59:10 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 20:10:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[22-May-2024 20:10:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[23-May-2024 07:28:01 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[23-May-2024 07:28:02 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:16:48 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:16:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:16:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:17:16 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:20:10 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:20:22 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:20:22 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:20:37 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:20:51 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:20:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:21:41 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:21:45 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:21:45 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:22:17 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:22:25 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:23:04 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:23:18 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:23:29 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:23:29 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:23:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:23:40 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:23:45 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:23:45 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:23:54 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:24:02 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:24:12 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:24:12 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:24:24 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:25:56 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:26:02 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:26:02 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:26:10 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:26:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:26:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:28:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:29:12 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:29:12 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:30:32 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:30:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:30:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:30:55 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 13:30:55 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:31:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 13:32:09 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 13:32:09 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:08:38 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:08:49 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:08:49 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 14:09:02 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:10:10 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:10:17 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:10:27 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 14:10:27 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:10:35 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:13:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:13:56 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:14:08 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 14:14:08 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:14:17 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:28:48 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:28:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:28:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 14:29:06 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:29:42 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[24-May-2024 14:29:53 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_proyectos.php on line 20
+[24-May-2024 14:29:53 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/rec_doctores.php on line 20
+[24-May-2024 14:30:01 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 18
+[25-May-2024 11:24:07 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 3
+[25-May-2024 11:24:07 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[25-May-2024 11:24:07 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 19
+[27-May-2024 21:34:58 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 2
+[27-May-2024 21:34:58 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20
+[27-May-2024 21:34:58 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/solicitar_visita/index.php on line 20

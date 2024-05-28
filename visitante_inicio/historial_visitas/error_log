@@ -1,0 +1,634 @@
+[16-May-2024 23:09:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==5' at line 4 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 33
+[16-May-2024 23:09:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '==5' at line 4 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 33
+[16-May-2024 23:47:58 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 125
+[16-May-2024 23:47:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 125
+[16-May-2024 23:48:00 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 125
+[16-May-2024 23:48:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:125
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 125
+[19-May-2024 15:07:00 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[19-May-2024 15:07:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[20-May-2024 23:26:12 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[20-May-2024 23:26:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[20-May-2024 23:26:16 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[20-May-2024 23:26:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 129
+[20-May-2024 23:46:37 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:46:37 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:51:01 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:51:01 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:51:04 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:51:04 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:09 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:09 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:11 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:11 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:12 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:12 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:13 America/Mexico_City] PHP Warning:  Undefined variable $filas in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[20-May-2024 23:54:13 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 14:20:59 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:00 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:01 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:14 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:26 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:21:46 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:22:03 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:135
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(135): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 135
+[21-May-2024 14:23:35 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 150
+[21-May-2024 14:23:39 America/Mexico_City] PHP Parse error:  Unmatched '}' in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 150
+[21-May-2024 15:10:09 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 133
+[21-May-2024 15:10:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:133
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 133
+[21-May-2024 15:10:20 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 132
+[21-May-2024 15:10:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:132
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 132
+[21-May-2024 15:10:40 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:10:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:10:41 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:10:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:10:42 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:10:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 130
+[21-May-2024 15:11:15 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 15:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 15:32:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected namespaced name "FETCH\_ASSOC" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:32:14 America/Mexico_City] PHP Parse error:  syntax error, unexpected namespaced name "FETCH\_ASSOC" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:32:16 America/Mexico_City] PHP Parse error:  syntax error, unexpected namespaced name "FETCH\_ASSOC" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:32:17 America/Mexico_City] PHP Parse error:  syntax error, unexpected namespaced name "FETCH\_ASSOC" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:32:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected namespaced name "FETCH\_ASSOC" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:34:57 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:12 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 140
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 141
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 142
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 143
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 144
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 145
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 146
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Undefined variable $fila in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:35:18 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 147
+[21-May-2024 15:40:40 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 37
+[21-May-2024 15:40:41 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 37
+[21-May-2024 15:42:51 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'departamentos.nombre AS departamento_nombre,
+        (SELECT txt_estado FROM est' at line 4 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 37
+[21-May-2024 15:55:11 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'departamentos.nombre AS departamento_nombre,
+        (SELECT txt_estado FROM est' at line 4 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(37): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 37
+[21-May-2024 15:56:12 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'departamentos.nombre AS departamento_nombre, (SELECT txt_estado FROM estados_reg' at line 1 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:27
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 27
+[21-May-2024 15:56:13 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'departamentos.nombre AS departamento_nombre, (SELECT txt_estado FROM estados_reg' at line 1 in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:27
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 27
+[21-May-2024 15:58:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:31
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 31
+[21-May-2024 15:58:34 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:31
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 31
+[21-May-2024 15:58:34 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:31
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 31
+[21-May-2024 15:58:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:31
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(31): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 31
+[21-May-2024 16:01:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 16:20:23 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 16:20:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 16:20:48 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 46
+[21-May-2024 16:20:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 46
+[21-May-2024 16:21:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 16:21:52 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 46
+[21-May-2024 16:21:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 46
+[21-May-2024 16:22:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:36
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 36
+[21-May-2024 16:25:52 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 33
+[21-May-2024 16:25:58 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 33
+[21-May-2024 16:26:13 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 33
+[21-May-2024 16:27:33 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:37 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:38 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:47 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:27:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 34
+[21-May-2024 16:30:16 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 35
+[21-May-2024 16:34:01 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:01 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:01 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:05 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:05 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:05 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:37 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:37 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:37 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:40 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:40 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:40 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:45 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[21-May-2024 16:34:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[21-May-2024 16:34:54 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:54 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:34:54 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:35:07 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:35:07 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:35:07 America/Mexico_City] PHP Warning:  Undefined variable $nombredoctor in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 155
+[21-May-2024 16:38:58 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 156
+[21-May-2024 16:38:58 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 156
+[21-May-2024 16:38:58 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 156
+[21-May-2024 16:40:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 158
+[21-May-2024 16:40:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 158
+[21-May-2024 16:40:18 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 158
+[21-May-2024 16:48:56 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 16:48:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 16:48:59 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 16:48:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 16:52:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 16:52:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 17:52:17 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 17:52:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 17:52:22 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 17:52:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:38 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:45 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:51 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:07:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:08:01 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[21-May-2024 18:08:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 16:24:57 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 16:24:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 18:45:53 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 18:45:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 19:02:18 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[22-May-2024 19:02:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[23-May-2024 05:03:53 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[23-May-2024 05:03:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[23-May-2024 09:09:50 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[23-May-2024 09:09:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:18:26 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:18:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:18:35 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:18:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:22:31 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:22:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:24:29 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:24:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:25:02 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:25:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:25:53 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:25:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:27:10 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:14 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:36 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:39 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:27:48 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:42
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 42
+[24-May-2024 13:27:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:42
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 42
+[24-May-2024 13:28:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:42
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 42
+[24-May-2024 13:28:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'nombre_usuario' in where clause is ambiguous in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:42
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(42): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 42
+[24-May-2024 13:28:47 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:28:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 52
+[24-May-2024 13:33:54 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:33:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:00 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:13 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:15 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:25 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:27 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:34:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:49:54 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:49:54 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:49:56 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 13:49:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 53
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:06:22 America/Mexico_City] PHP Warning:  Undefined array key "nombre_completo" in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 164
+[24-May-2024 15:07:28 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 102
+[24-May-2024 15:07:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 102
+[24-May-2024 15:07:29 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 102
+[24-May-2024 15:07:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:102
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 102
+[24-May-2024 15:18:53 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'uabcsnet_ritienet_parmatech.usuarios' doesn't exist in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:43
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 43
+[24-May-2024 15:18:57 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'uabcsnet_ritienet_parmatech.usuarios' doesn't exist in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:43
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php(43): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 43
+[24-May-2024 15:22:09 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 2
+[24-May-2024 15:22:09 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 44
+[24-May-2024 15:22:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 44
+[24-May-2024 15:22:21 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 2
+[24-May-2024 15:22:21 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 44
+[24-May-2024 15:22:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:44
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 44
+[24-May-2024 19:47:39 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 45
+[24-May-2024 19:47:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 45
+[24-May-2024 19:47:44 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 45
+[24-May-2024 19:47:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 45
+[26-May-2024 23:44:26 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 171
+[26-May-2024 23:44:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/visitante_inicio/historial_visitas/index.php on line 171

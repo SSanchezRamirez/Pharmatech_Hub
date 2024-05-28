@@ -1,0 +1,457 @@
+[14-May-2024 11:29:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:29:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:06 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:08 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:16 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:27 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:30:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 20
+[14-May-2024 11:35:43 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:32
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 32
+[14-May-2024 11:37:10 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:32
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(32): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 32
+[14-May-2024 12:06:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 12:14:16 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 12:14:16 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 35
+[14-May-2024 17:21:31 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:21:31 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 35
+[14-May-2024 17:21:39 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:21:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 35
+[14-May-2024 17:23:28 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:23:28 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 35
+[14-May-2024 17:26:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:29:44 America/Mexico_City] PHP Parse error:  Unclosed '{' on line 103 does not match ')' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 113
+[14-May-2024 17:29:46 America/Mexico_City] PHP Parse error:  Unclosed '{' on line 103 does not match ')' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 113
+[14-May-2024 17:30:00 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:32:35 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:34:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:35:03 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:35:54 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:36:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:36:55 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:38:58 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:39:20 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:40:06 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:40:25 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:51:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:51:53 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:52:38 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:54:15 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:54:35 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:56:09 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:56:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:56:39 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 17:56:48 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:03:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:10:31 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:11:29 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:11:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:11:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:12:12 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:17:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:17:42 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:18:43 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:19:04 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:21:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:22:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 18:23:21 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[14-May-2024 20:28:14 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/index.php on line 4
+[16-May-2024 22:19:58 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:42:26 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:44:26 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:47:33 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:52:07 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:52:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:56:52 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php:72
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php(72): PDO->rollBack()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php on line 72
+[17-May-2024 09:56:54 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 09:57:06 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php:72
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php(72): PDO->rollBack()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_personal.php on line 72
+[17-May-2024 10:02:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:09:41 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:11:21 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:11:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:11:41 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:11:43 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:12:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:15:17 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:15:37 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:16:49 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:16:57 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:16:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:18:25 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:18:31 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:20:28 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:20:57 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:22:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:23:05 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:23:08 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:23:23 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:23:35 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:26:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:27:25 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:27:46 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:28:19 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:30:08 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:43:25 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:44:55 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:44:59 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:54:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:56:14 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:57:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:57:45 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 10:57:49 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:09:29 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:14:57 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:15:16 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:16:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:17:22 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:23:08 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:24:27 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:37:30 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 11:48:15 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 17:22:23 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 17:26:40 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 19:34:19 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 93
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 93
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 97
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 97
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 101
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 101
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 105
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 105
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 109
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 109
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:09:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 121
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 94
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 94
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 98
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 98
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 102
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 102
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 106
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 106
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 110
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 110
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Undefined variable $doctor in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 122
+[17-May-2024 20:15:29 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:137
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 137
+[17-May-2024 20:18:38 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:18:52 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:19:26 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:21:14 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:21:19 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:23:15 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:91
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 91
+[17-May-2024 20:28:34 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:29:20 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:90
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 90
+[17-May-2024 20:30:15 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 89
+[17-May-2024 20:30:24 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 89
+[17-May-2024 20:30:42 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/edit_dep.php on line 89
+[17-May-2024 21:34:36 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:34:36 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:34:36 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:34:36 America/Mexico_City] PHP Warning:  Undefined variable $conn in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:34:36 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:34:53 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:34:53 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:34:53 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:34:53 America/Mexico_City] PHP Warning:  Undefined variable $conn in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:34:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:34:55 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:34:55 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:34:55 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:34:55 America/Mexico_City] PHP Warning:  Undefined variable $conn in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:34:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:35:49 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:35:49 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:35:49 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:35:49 America/Mexico_City] PHP Warning:  Undefined variable $conn in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:35:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 26
+[17-May-2024 21:36:43 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:36:43 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:37:41 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 20
+[17-May-2024 21:37:41 America/Mexico_City] PHP Warning:  Undefined array key "descripcion" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 21
+[17-May-2024 21:39:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:41:45 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:41:50 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:42:28 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:42:34 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:42:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:42:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:45:53 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:45:57 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/agg_dep.php on line 26
+[17-May-2024 21:58:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 21:59:48 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:05:10 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:06:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:06:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:07:32 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:07:38 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:08:09 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:09:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:09:38 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:09:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:12:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:22:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[17-May-2024 22:26:24 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:30:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:30:48 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[17-May-2024 22:31:22 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[18-May-2024 15:07:06 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[18-May-2024 15:09:18 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[18-May-2024 15:10:17 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[20-May-2024 22:13:59 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[21-May-2024 11:44:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[22-May-2024 23:59:11 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[23-May-2024 01:33:49 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[23-May-2024 03:13:38 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[23-May-2024 03:16:41 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[23-May-2024 04:35:34 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[23-May-2024 04:35:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[23-May-2024 09:23:40 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[23-May-2024 09:24:33 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[23-May-2024 09:24:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[23-May-2024 09:31:07 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 20:34:16 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 20:50:08 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 21:27:48 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 21:28:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 21:29:51 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 21:32:45 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:47:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:47:29 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:48:26 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:48:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:49:16 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[24-May-2024 22:50:16 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:34:40 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:37:11 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:37:26 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:38:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:38:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:38:46 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[25-May-2024 14:39:04 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:39:07 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:39:36 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:39:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:40:51 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[25-May-2024 14:41:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 19:42:55 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 19:43:48 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[26-May-2024 19:44:34 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 19:46:36 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 19:47:07 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[26-May-2024 19:47:07 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 19
+[26-May-2024 19:52:32 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 19:56:42 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_dep.php on line 3
+[26-May-2024 22:15:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:36 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:36 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:36 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:15:36 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:16:13 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 82
+[26-May-2024 22:16:13 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 82
+[26-May-2024 22:16:13 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 82
+[26-May-2024 22:16:13 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 82
+[26-May-2024 22:16:28 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:28 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:28 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:28 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:31 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 81
+[26-May-2024 22:16:43 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:16:43 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:16:43 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:16:43 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:17:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id_doc' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php:73
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php(73): PDO->query('SELECT id_depar...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 73
+[26-May-2024 22:17:18 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:17:18 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:17:18 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:17:18 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:05 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:05 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:05 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:05 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:17 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:17 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:17 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:17 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:19 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:19 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:19 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[26-May-2024 22:20:19 America/Mexico_City] PHP Warning:  Undefined array key "id_doc" in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/ges_dep.php on line 80
+[27-May-2024 18:19:23 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:19:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:21 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:22 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:25 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:38 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:40 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:53 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71
+[27-May-2024 18:20:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php:71
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/subdirector_inicio/gen_personal.php on line 71

@@ -1,0 +1,350 @@
+/* Define una variable para el tipo de fuente por defecto */
+:root {
+    --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+      "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+      "Source Han Sans CN", sans-serif;
+  }
+  /* Establece el box-sizing y elimina el outline predeterminado para algunos elementos */
+  .main-container {
+    overflow: hidden;
+  }
+  
+  .main-container,
+  .main-container * {
+    box-sizing: border-box;
+  }
+  
+  input,
+  select,
+  textarea,
+  button {
+    outline: 0;
+  }
+  /* Establece estilos para el contenedor principal */
+  .main-container {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  /* Establece estilos para el encabezado */
+  .header {
+    position: relative;
+    width: 1440px;
+    height: 127px;
+    margin: 56px 0 0 -2px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    z-index: 2;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  /* Estilo para el cuadrado blanco responsivo en el header */
+  .cuadrado-blanco {
+    width: 10%; /* Ajusta este porcentaje según tus necesidades */
+    height: 20px; /* Altura fija */
+    background-color: white;
+    max-width: 20px; /* Ancho máximo para evitar que el cuadrado sea demasiado grande */
+    z-index: 100;
+  }
+  
+    /* Establece estilos para la barra de navegación */
+  .navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    z-index: 100  ;
+  }
+  /* Establece estilos para la imagen */
+  .image {
+    position: absolute;
+    width: 151px;
+    height: 103px;
+    top: -1px;
+    left: 450px;
+    background: url(./assets/images/86e3e6f4-5da7-4b91-8811-3858665efc45.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 4;
+  }
+  /* Establece estilos para el texto "pharmatech" */
+  .pharmatech {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 45px;
+    top: 45px;
+    left: 613px;
+    color: #bda567;
+    font-family: Newsreader, var(--default-font-family);
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 45px;
+    text-align: left;
+    white-space: nowrap;
+    letter-spacing: -0.45px;
+    z-index: 3;
+  }
+  /* Establece estilos para los rectángulos */
+  .rectangle {
+    position: relative;
+    width: 1440px;
+    height: 770px;
+    margin: 0 0 0 0;
+    background: #ffffff;
+    z-index: 5;
+  }
+  /* Establece estilos para las columnas flexibles */
+  .flex-column {
+    position: absolute;
+    width: 176px;
+    height: 553px;
+    top: 23px;
+    left: 1235px;
+    z-index: 19;
+  }
+  /* Establece estilos para cada rectángulo específico */
+  .rectangle-1 {
+    position: relative;
+    width: 174px;
+    height: 70px;
+    margin: 0 0 0 0;
+    background: url(./assets/images/782bc2ff-7dd5-4b49-a494-6d846b9efc3c.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 7;
+  }
+  /* Establece estilos para los textos dentro de los rectángulos */
+  .solicitar-visita {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 149px;
+    height: 26px;
+    top: 20px;
+    left: 12px;
+    color: #fafafa;
+    font-family: Sora, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 8;
+  }
+  /* Estilos para el rectángulo 2 */
+  .rectangle-2 {
+    position: relative;
+    width: 174px;
+    height: 70px;
+    margin: 23px 0 0 0;
+    background: url(./assets/images/49d8bdf6-beac-4e0f-a19c-3fcf13674b6b.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 10;
+  }
+  /* Estilos para el texto "Imprimir carta de aceptación" */
+  .imprimir-carta-aceptacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 168px;
+    height: 52px;
+    top: 7px;
+    left: 2px;
+    color: #fafafa;
+    font-family: Sora, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    text-overflow: initial;
+    z-index: 11;
+    overflow: hidden;
+  }
+  /* Estilos para el rectángulo 3 */
+  .rectangle-3 {
+    position: relative;
+    width: 174px;
+    height: 96px;
+    margin: 23px 0 0 0;
+    background: url(./assets/images/1a6a8987-9133-4edc-94cd-02850ab3273a.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 13;
+  }
+  /* Estilos para el texto "Imprimir carta" */
+  .imprimir-carta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 148px;
+    height: 78px;
+    top: 9px;
+    left: 12px;
+    color: #fafafa;
+    font-family: Sora, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    text-overflow: initial;
+    z-index: 14;
+    overflow: hidden;
+  }
+  /* Estilos para el rectángulo 4 */
+  .rectangle-4 {
+    position: relative;
+    width: 174px;
+    height: 96px;
+    margin: 24px 0 0 0;
+    background: url(./assets/images/6a1ad6a5-7ccb-444d-82ca-a65a46a1ab3f.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 16;
+  }
+  /* Estilos para el texto "Imprimir credencial" */
+  .imprimir-credencial {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 110px;
+    height: 52px;
+    top: 22px;
+    left: 31px;
+    color: #fafafa;
+    font-family: Sora, var(--default-font-family);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-align: center;
+    text-overflow: initial;
+    z-index: 17;
+    overflow: hidden;
+  }
+  /* Estilos para el rectángulo 5 */
+  .rectangle-5 {
+    position: relative;
+    width: 174px;
+    height: 127px;
+    margin: 24px 0 0 2px;
+    background: url(./assets/images/2c4f7059-dddc-4d73-9478-119904befa54.png)
+      no-repeat center;
+    background-size: cover;
+    z-index: 19;
+  }
+  /* Estilos para el rectángulo 6 */
+  .rectangle-6 {
+    position: absolute;
+    width: 650px;
+    height: 49px;
+    top: 38px;
+    left: 72px;
+    background: #f8f8f8;
+    border: 1px solid #000000;
+    z-index: 22;
+    border-radius: 20px;
+  }
+  /* Estilos para las notificaciones */
+  .notificaciones {
+    position: absolute;
+    width: 218px;
+    height: 36px;
+    top: 2px;
+    left: 47px;
+    color: #000000;
+    font-family: Sora, var(--default-font-family);
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: -0.6px;
+    z-index: 22;
+    overflow: hidden;
+    -webkit-text-stroke: 1px #c8a9a9;
+  }
+  /* Estilos para el rectángulo 7 */
+  .rectangle-7 {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: url(http://uabcs.net/pharmatechub/recursos/assets/images/fondo.png) no-repeat center center;
+    background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
+    border-radius: 70px;
+    z-index: 0;
+  
+  }
+  /* Estilos para el vector */
+  .vector {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: url(http://uabcs.net/pharmatechub/recursos/assets/images/vector.png);
+      background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
+    border-radius: 70px;
+  }
+  
+  
+  #historial {
+    background-image: url("http://uabcs.net/pharmatechub/recursos/assets/images/fondo.png");
+    background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+    background-position: center; /* Centra la imagen */
+    /* Agrega cualquier otro estilo que desees para la tabla */
+}
+table.dataTable.no-footer {
+  border-bottom: 1px solid #111;
+}
+
+element.style {
+}
+/* Estilos adicionales para la tabla con id tabla_visitas */
+#tabla_visitas {
+    background-image: url(http://uabcs.net/pharmatechub/recursos/assets/images/fondo.png);
+    background-size: cover;
+    background-position: center;
+}
+table.dataTable.no-footer {
+    border-bottom: 1px solid #111;
+}
+/* Estilos para todas las tablas */
+table.dataTable {
+    width: 100%;
+    margin: 0 auto;
+    clear: both;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+/* Estilos para la clase .table */
+.table{
+  background-color: #FFFFFF;
+z-index: 25;
+width: 100%;
+margin-bottom: 1rem;
+color: #212529;
+border-collapse: collapse;
+display: table;
+border-collapse: separate;
+box-sizing: border-box;
+text-indent: initial;
+border-spacing: 2px;
+border-color: grey;
+}
