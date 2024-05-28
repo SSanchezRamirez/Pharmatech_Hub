@@ -1,0 +1,200 @@
+[09-May-2024 01:58:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 26
+[09-May-2024 02:00:40 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:26
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 26
+[14-May-2024 01:04:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 105
+[14-May-2024 01:04:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 105
+[14-May-2024 01:04:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 106
+[14-May-2024 01:04:39 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 106
+[14-May-2024 01:04:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 106
+[14-May-2024 20:24:34 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:25:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:27:06 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:27:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:44:25 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:46:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 20:59:35 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:01:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:01:33 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:03:37 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:03:56 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:11:14 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:22:14 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:23:34 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:23:43 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:23:50 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:23:54 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:24:08 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:24:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:24:15 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:24:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:25:31 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:25:35 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:25:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:25:44 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:25:45 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:26:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:26:54 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:34:17 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:34:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:23 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:27 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:28 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "else", expecting "(" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/notificacion_act.php on line 36
+[14-May-2024 21:34:42 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:34:47 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:38:39 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:37 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:37 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:38 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:38 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:39:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:40:17 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:40:25 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:40:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:40:37 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:44:25 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:44:50 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:44:56 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:44:58 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:47:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:47:11 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:47:12 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:47:12 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:47:12 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:53:49 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:54:28 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:54:34 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:55:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:55:31 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:55:41 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:55:57 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:56:08 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:56:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 21:57:32 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 22:18:08 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 22:18:17 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[14-May-2024 22:18:35 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 15:42:46 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 15:46:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 15:46:53 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:15:18 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:20:51 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:27:04 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:40:28 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:41:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:42:06 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:43:38 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:55:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:55:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:57:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:58:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[15-May-2024 16:58:21 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 4
+[21-May-2024 11:41:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 35
+[21-May-2024 11:42:55 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/edit_proyectos.php:38
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/edit_proyectos.php(38): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/edit_proyectos.php on line 38
+[21-May-2024 12:01:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 35
+[22-May-2024 00:13:23 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 35
+[23-May-2024 04:30:51 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:35
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(35): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 35
+[23-May-2024 05:20:57 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:95
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(95): PDO->query('SELECT id_visit...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 95
+[23-May-2024 05:25:31 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'h.apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:98
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(98): PDO->query('SELECT h.id_vis...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 98
+[23-May-2024 05:27:20 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'h.apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:98
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(98): PDO->query('SELECT h.id_vis...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 98
+[23-May-2024 05:28:56 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_proyecto' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:29
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(29): PDO->query('SELECT id_proye...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 29
+[23-May-2024 05:30:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 102
+[23-May-2024 05:30:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 163
+[23-May-2024 05:30:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 163
+[23-May-2024 05:30:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 163
+[23-May-2024 05:30:27 America/Mexico_City] PHP Warning:  Undefined array key "nombre" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 163
+[23-May-2024 05:43:44 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'h.apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:98
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(98): PDO->query('SELECT h.id_vis...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 98
+[23-May-2024 05:43:45 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'h.apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:98
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(98): PDO->query('SELECT h.id_vis...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 98
+[23-May-2024 05:45:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'apellido_usuario' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:95
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(95): PDO->query('SELECT id_visit...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 95
+[23-May-2024 08:27:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'uabcsnet_ritienet_parmatech.doctores' doesn't exist in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(37): PDO->query('SELECT id_doc, ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 37
+[23-May-2024 08:29:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'uabcsnet_ritienet_parmatech.doctores' doesn't exist in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:37
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(37): PDO->query('SELECT id_doc, ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 37
+[23-May-2024 09:32:21 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nombre_departamento' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php:21
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php(21): PDO->query('SELECT id_depar...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 21
+[25-May-2024 01:16:18 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 18
+[25-May-2024 01:19:31 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/gen_proyectos.php on line 20
+[25-May-2024 01:19:36 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/gen_proyectos.php on line 20
+[25-May-2024 01:19:41 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/gen_proyectos.php on line 20
+[25-May-2024 01:19:44 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 18
+[25-May-2024 01:19:47 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/gen_proyectos.php on line 20
+[25-May-2024 08:52:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`uabcsnet_ritienet_parmatech`.`proyectos`, CONSTRAINT `proyectos_ibfk_1` FOREIGN KEY (`id_departamento`) REFERENCES `departamentos` (`id_departamento`)) in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php:41
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php(41): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/agr_proyecto.php on line 41
+[25-May-2024 11:23:11 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 3
+[25-May-2024 11:23:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 3
+[25-May-2024 11:23:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/index.php on line 3
+[25-May-2024 16:42:21 America/Mexico_City] PHP Warning:  Undefined array key "username" in /home3/uabcsnet/public_html/pharmatechub/jefe_dep_inicio/gen_proyectos.php on line 20
