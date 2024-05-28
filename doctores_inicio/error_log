@@ -1,0 +1,490 @@
+[08-May-2024 21:18:33 America/Mexico_City] PHP Warning:  require(../../fdpf/fpdf.php): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:18:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../../fdpf/fpdf.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:20:14 America/Mexico_City] PHP Warning:  require(../../fdpf/fpdf.php): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:20:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../../fdpf/fpdf.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:20:16 America/Mexico_City] PHP Warning:  require(../../fdpf/fpdf.php): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:20:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../../fdpf/fpdf.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 3
+[08-May-2024 21:35:24 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 35
+[08-May-2024 21:35:24 America/Mexico_City] PHP Warning:  require(../../fdpf/fpdf.php): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 36
+[08-May-2024 21:35:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../../fdpf/fpdf.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 36
+[08-May-2024 21:49:36 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:52
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(52): mysqli->__construct('localhost', 'username', Object(SensitiveParameterValue), 'nombre_base_de_...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 52
+[08-May-2024 21:49:56 America/Mexico_City] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'username'@'localhost' (using password: YES) in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:52
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(52): mysqli->__construct('localhost', 'username', Object(SensitiveParameterValue), 'nombre_base_de_...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 52
+[08-May-2024 22:08:21 America/Mexico_City] PHP Warning:  file_get_contents(obtener_informacion_visita.php): Failed to open stream: No such file or directory in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 38
+[08-May-2024 22:08:21 America/Mexico_City] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 40
+[08-May-2024 22:37:11 America/Mexico_City] PHP Warning:  Undefined variable $conexion in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:37:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:37:40 America/Mexico_City] PHP Warning:  Undefined variable $conexion in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:37:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:40:37 America/Mexico_City] PHP Warning:  Undefined variable $conexion in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:40:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:41:01 America/Mexico_City] PHP Warning:  Undefined variable $conexion in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 22:41:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:80
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 80
+[08-May-2024 23:17:01 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:10 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:11 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:11 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:17:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:18:23 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:18:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:18:57 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:18:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:19:22 America/Mexico_City] PHP Warning:  Undefined variable $pdo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[08-May-2024 23:19:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/notificacion_act.php on line 6
+[09-May-2024 09:49:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "off", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[09-May-2024 10:01:41 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "checkbox", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 188
+[13-May-2024 21:07:11 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 21:24:06 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 21:24:11 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:01:14 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:01:15 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:01:15 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:01:21 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:02:14 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:02:15 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 22:02:16 America/Mexico_City] PHP Warning:  Undefined array key "id_doctor" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 20
+[13-May-2024 23:25:14 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 108
+[13-May-2024 23:25:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 108
+[14-May-2024 01:26:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 133
+[14-May-2024 01:26:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:133
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 133
+[14-May-2024 01:33:11 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 133
+[14-May-2024 01:33:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:133
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 133
+[14-May-2024 01:35:19 America/Mexico_City] PHP Warning:  Undefined array key "nombre_motivo" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 141
+[14-May-2024 01:48:40 America/Mexico_City] PHP Warning:  Undefined array key "nombre_motivo" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 141
+[14-May-2024 01:57:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "En", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 152
+[14-May-2024 02:15:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[14-May-2024 02:15:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[14-May-2024 21:39:20 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[14-May-2024 21:39:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[14-May-2024 21:39:23 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[14-May-2024 21:39:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[15-May-2024 16:14:52 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[15-May-2024 16:14:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:26:44 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:26:44 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:27:28 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:27:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:27:51 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:27:51 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:129
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 129
+[16-May-2024 17:28:50 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:28:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:28:59 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:28:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:29:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:29:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:29:21 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 126
+[16-May-2024 17:29:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 126
+[16-May-2024 17:30:31 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:30:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:31:05 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 17:31:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:127
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 127
+[16-May-2024 22:41:18 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[16-May-2024 22:41:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[18-May-2024 16:23:58 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[18-May-2024 16:23:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[18-May-2024 16:24:00 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[18-May-2024 16:24:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[20-May-2024 17:50:32 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[20-May-2024 17:50:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[20-May-2024 22:21:53 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[20-May-2024 22:21:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[21-May-2024 11:18:24 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[21-May-2024 11:18:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[21-May-2024 13:22:38 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[21-May-2024 13:22:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:128
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 128
+[21-May-2024 18:35:20 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "text", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 146
+[21-May-2024 18:48:48 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:48:49 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:50:02 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:50:04 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:50:06 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:50:07 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:51:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:52:19 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 158
+[21-May-2024 18:52:52 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[21-May-2024 18:52:54 America/Mexico_City] PHP Parse error:  syntax error, unexpected identifier "form", expecting "," or ";" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 156
+[23-May-2024 10:56:35 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:39
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 39
+[23-May-2024 10:56:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:39
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 39
+[23-May-2024 10:56:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:39
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 39
+[23-May-2024 11:07:49 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 70
+[23-May-2024 11:07:49 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:70
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 70
+[23-May-2024 11:12:08 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:175
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(175): PDO->query('SELECT hv.*, \n ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 175
+[23-May-2024 11:12:27 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:175
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(175): PDO->query('SELECT hv.*, \n ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 175
+[23-May-2024 11:12:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:175
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(175): PDO->query('SELECT hv.*, \n ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 175
+[23-May-2024 11:13:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:175
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(175): PDO->query('SELECT hv.*, \n ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 175
+[23-May-2024 11:13:20 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 9 in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:175
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(175): PDO->query('SELECT hv.*, \n ...')
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 175
+[23-May-2024 20:17:43 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[23-May-2024 20:17:43 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[24-May-2024 12:51:37 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[24-May-2024 12:51:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[24-May-2024 12:51:40 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[24-May-2024 12:51:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 167
+[24-May-2024 13:09:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_visitante' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:09:39 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_visitante' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:15:19 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_visitante' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 33
+[24-May-2024 13:15:30 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_visitante' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 33
+[24-May-2024 13:16:32 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 83
+[24-May-2024 13:16:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 83
+[24-May-2024 13:18:39 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 83
+[24-May-2024 13:18:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:83
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 83
+[24-May-2024 13:42:31 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:42:32 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:42:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:47:17 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:48:00 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:48:09 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:49:05 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:49:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 13:49:24 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'hrv.id_user' in 'on clause' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:34
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(34): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 34
+[24-May-2024 16:25:36 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'idr.nombre_s' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 33
+[24-May-2024 16:25:38 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'idr.nombre_s' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:33
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(33): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 33
+[24-May-2024 16:36:36 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 141
+[24-May-2024 16:36:38 America/Mexico_City] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 141
+[24-May-2024 16:41:26 America/Mexico_City] PHP Parse error:  Unclosed '{' on line 132 does not match ')' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 154
+[24-May-2024 16:41:27 America/Mexico_City] PHP Parse error:  Unclosed '{' on line 132 does not match ')' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 154
+[24-May-2024 16:50:37 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'idr.id_doc' in 'field list' in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:30
+Stack trace:
+#0 /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php(30): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 30
+[24-May-2024 17:10:53 America/Mexico_City] PHP Parse error:  syntax error, unexpected token "/" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 143
+[24-May-2024 17:11:12 America/Mexico_City] PHP Parse error:  syntax error, unexpected token ">" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 146
+[24-May-2024 17:11:13 America/Mexico_City] PHP Parse error:  syntax error, unexpected token ">" in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 146
+[25-May-2024 00:10:15 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 00:10:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 00:10:16 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 00:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 00:10:17 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 00:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:26 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:28 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:28 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 01:51:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 03:54:21 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 03:54:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 08:36:01 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 08:36:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 08:36:10 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 08:36:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 16:27:40 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[25-May-2024 16:27:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 18:25:23 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 18:25:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 18:36:57 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 18:36:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 19:22:50 America/Mexico_City] PHP Warning:  Undefined variable $resultado in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[27-May-2024 19:22:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php:130
+Stack trace:
+#0 {main}
+  thrown in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 130
+[28-May-2024 03:37:34 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:34 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:34 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:44 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:44 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:44 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:44 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:46 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:46 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:46 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:51 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:51 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:37:51 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:37:51 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:38:29 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:38:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:38:29 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:38:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:38:32 America/Mexico_City] PHP Warning:  Undefined variable $fila_motivo in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:38:32 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 102
+[28-May-2024 03:38:32 America/Mexico_City] PHP Warning:  Undefined variable $fila_proyecto in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103
+[28-May-2024 03:38:32 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home3/uabcsnet/public_html/pharmatechub/doctores_inicio/index.php on line 103

@@ -1,0 +1,479 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.header {
+  position: relative;
+  width: 1440px;
+  height: 127px;
+  margin: 82px 0 0 0;
+  background: #ffffff;
+  border: 1px solid #000000;
+  z-index: 11;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.image {
+  position: absolute;
+  width: 151px;
+  height: 103px;
+  top: -1px;
+  left: 472px;
+  background: url(./assets/images/24718b9f-adf6-438b-a51b-b364226fe30e.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 13;
+}
+.cart-button {
+  position: absolute;
+  width: 130px;
+  height: 90px;
+  top: 16px;
+  right: 74px;
+  background: linear-gradient(180deg, #ffffff, #ffffff);
+  z-index: 14;
+  overflow: hidden;
+  border-radius: 100px;
+}
+.documento-a-portada {
+  position: relative;
+  width: 120px;
+  height: 90px;
+  margin: 0 0 0 5px;
+  background: url(./assets/images/765e6ee1-8d4c-40f2-85d9-5d5e5fe203fe.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 15;
+}
+.pharmatech {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 45px;
+  top: 45px;
+  left: 613px;
+  color: #bda567;
+  font-family: Newsreader, var(--default-font-family);
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: left;
+  white-space: nowrap;
+  letter-spacing: -0.45px;
+  z-index: 12;
+}
+.rectangle {
+  position: relative;
+  width: 705px;
+  height: 575px;
+  margin: 155px 0 0 351px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  z-index: 2;
+  overflow: visible auto;
+  border-radius: 70px;
+}
+.rectangle-1 {
+  position: relative;
+  width: 648px;
+  height: 164px;
+  margin: 37px 0 0 30px;
+  background: #f6f6f6;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  z-index: 3;
+  border-radius: 70px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.ellipse {
+  position: absolute;
+  width: 145px;
+  height: 137px;
+  top: 4px;
+  left: 14px;
+  background: url(./assets/images/30dc5164-3317-47fb-b7cd-f682c0518b37.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 10;
+}
+.dr-carlos-garcia-romero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 407px;
+  height: 40px;
+  top: 5px;
+  left: 177px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 20;
+}
+.image-2 {
+  position: absolute;
+  width: 25px;
+  height: 19px;
+  top: 17px;
+  left: 593px;
+  background: url(./assets/images/dc1f05748ee33ec0d366b66d0e413d36444eeb37.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 25;
+}
+.medico-general {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 231px;
+  height: 38px;
+  top: 63px;
+  left: 274px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 37.8px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 22;
+}
+.contacto-pharmatech {
+  position: absolute;
+  width: 469px;
+  height: 32px;
+  top: 127px;
+  left: 147px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 30.256px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 28;
+}
+.contacto {
+  position: relative;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 30.256px;
+  text-align: center;
+}
+.carlosg-pharmatech {
+  position: relative;
+  color: #49b0f2;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 30.256px;
+  text-align: center;
+}
+.rectangle-3 {
+  position: relative;
+  width: 648px;
+  height: 164px;
+  margin: 9px 0 0 29px;
+  background: #f6f6f6;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  z-index: 4;
+  border-radius: 70px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.dra-karen-vargas {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 381px;
+  height: 40px;
+  top: 5px;
+  left: 183px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 21;
+}
+.ellipse-4 {
+  position: absolute;
+  width: 145px;
+  height: 137px;
+  top: 6px;
+  left: 15px;
+  background: url(./assets/images/e524bce6-d6cf-4ffd-966e-1991cfa4eee7.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 9;
+}
+.image-5 {
+  position: absolute;
+  width: 25px;
+  height: 19px;
+  top: 16px;
+  left: 594px;
+  background: url(./assets/images/dc1f05748ee33ec0d366b66d0e413d36444eeb37.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 26;
+}
+.medico-general-6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 231px;
+  height: 38px;
+  top: 56px;
+  left: 246px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 37.8px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 23;
+}
+.contacto-pharmatech-7 {
+  position: absolute;
+  width: 453px;
+  height: 32px;
+  top: 126px;
+  left: 138px;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 29;
+}
+.contacto-8 {
+  position: relative;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+}
+.karenv-pharmatech {
+  position: relative;
+  color: #53b4f2;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+}
+.rectangle-9 {
+  position: relative;
+  width: 648px;
+  height: 164px;
+  margin: 14px 0 0 36px;
+  background: #f6f6f6;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  z-index: 5;
+  border-radius: 70px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.ellipse-a {
+  position: absolute;
+  width: 145px;
+  height: 137px;
+  top: 12px;
+  left: 8px;
+  background: url(./assets/images/2c4b5bc1-0e6a-46d5-9b7f-0b73f954030c.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 8;
+}
+.dr-eduardo-ojeda-teran {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 390px;
+  height: 40px;
+  top: 12px;
+  left: 171px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 7;
+}
+.image-b {
+  position: absolute;
+  width: 25px;
+  height: 19px;
+  top: 22px;
+  left: 587px;
+  background: url(./assets/images/dc1f05748ee33ec0d366b66d0e413d36444eeb37.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 27;
+}
+.medico-general-c {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 231px;
+  height: 38px;
+  top: 57px;
+  left: 238px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 37.8px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 24;
+}
+.contacto-d {
+  position: absolute;
+  width: 515px;
+  height: 32px;
+  top: 128px;
+  left: 104px;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 6;
+}
+.contacto-e {
+  position: relative;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+}
+.eduardot-pharmatech-com {
+  position: relative;
+  color: #53b4f2;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 31.5px;
+  text-align: center;
+}
+.rectangle-f {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: -2px;
+  background: url(./assets/images/816f0986-aa45-4288-bf4d-a62a0285d81e.png)
+    no-repeat center;
+  background-size: cover;
+  border-radius: 70px;
+}
+.vector {
+  position: absolute;
+  width: 1512.211px;
+  height: 1003.425px;
+  top: 50%;
+  left: 50%;
+  background: url(./assets/images/543ea616-5051-4872-a698-6cc2786fa36a.png)
+    no-repeat center;
+  background-size: cover;
+  transform: translate(-47.48%, -32.79%);
+  z-index: 1;
+}
+.doctores-disponibles {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 472px;
+  height: 54px;
+  top: 236px;
+  left: 482px;
+  color: #000000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 16;
+}
+.rectangle-10 {
+  position: absolute;
+  width: 573px;
+  height: 74px;
+  top: 245px;
+  left: 432px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  z-index: 18;
+  border-radius: 70px;
+}
+.doctores-disponibles-11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 472px;
+  height: 54px;
+  top: 11px;
+  left: 49px;
+  color: #000000;
+  font-family: Inter, var(--default-font-family);
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 19;
+}

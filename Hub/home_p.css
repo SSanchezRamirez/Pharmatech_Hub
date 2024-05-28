@@ -1,0 +1,620 @@
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+.registro {
+  font-family: 'Arial', sans-serif; /* Fuente moderna y limpia */
+  color: #333; /* Color oscuro para el texto */
+  font-size: 16px; /* Tamaño de fuente adecuado */
+}
+.registro a {
+  color: #0dcaf0; /* Color azul brillante para enlaces */
+  text-decoration: none; /* No subrayar el enlace */
+  padding: 5px 10px; /* Espaciado interno para hacerlo más fácil de clicar */
+  border: 2px solid #0dcaf0; /* Borde que coincide con el color del enlace */
+  border-radius: 5px; /* Bordes redondeados para un look más moderno */
+  transition: all 0.3s ease; /* Transición suave para efectos de hover */
+}
+.registro a:hover {
+  background-color: #007bffa8; /* Color de fondo al pasar el ratón */
+  color: #fff; /* Texto blanco al pasar el ratón */
+  text-decoration: none; /* Asegurar que sigue sin subrayado al pasar el ratón */
+}
+
+.boton-basico a {
+font-family: 'Arial', sans-serif; /* Fuente moderna y limpia */
+color: #333; /* Color oscuro para el texto */
+font-size: 16px; /* Tamaño de fuente adecuado */
+color: #0dcaf0; /* Color azul brillante para enlaces */
+text-decoration: none; /* No subrayar el enlace */
+padding: 5px 10px; /* Espaciado interno para hacerlo más fácil de clicar */
+border: 2px solid #0dcaf0; /* Borde que coincide con el color del enlace */
+border-radius: 5px; /* Bordes redondeados para un look más moderno */
+transition: all 0.3s ease; /* Transición suave para efectos de hover */
+}
+.boton-basico a:hover {
+background-color: #007bffa8; /* Color de fondo al pasar el ratón */
+color: #fff; /* Texto blanco al pasar el ratón */
+text-decoration: none; /* Asegurar que sigue sin subrayado al pasar el ratón */
+}
+
+.main-container {
+  overflow: hidden;
+}
+
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+.main-container {
+  position: relative;
+  width: 1440px;
+  height: 1963px;
+  margin: 0 auto;
+  font-size: 0px;
+  overflow: hidden;
+}
+.copyright-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  width: 757px;
+  height: 25px;
+  margin: 1881px 0 0 22px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 25px;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -0.5px;
+  z-index: 20;
+}
+.marco {
+  position: absolute;
+  width: 1440px;
+  height: 1963px;
+  top: 0;
+  left: 0;
+  background: #ffffff;
+  border: 4px solid #000000;
+  border-radius: 58px;
+}
+.pharmatech-labs {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  width: 1111px;
+  height: 317px;
+  top: 8px;
+  left: 152px;
+  font-family: Sora, var(--default-font-family);
+  font-size: 100px;
+  font-weight: 800;
+  line-height: 100px;
+  text-align: center;
+  letter-spacing: -2px;
+  z-index: 3;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.header {
+  position: absolute;
+  height: 112px;
+  top: 59px;
+  right: 6px;
+  left: 6px;
+  background: #cff2f2;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  z-index: 23;
+  overflow: hidden;
+}
+.image-container {
+  position: absolute;
+  width: 151px;
+  height: 103px;
+  top: -7px;
+  left: -10px;
+  background: url(./assets/images/6b647195-aee8-4b70-8e35-eb347738c770.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 25;
+}
+.rectangle-button {
+  position: absolute;
+  width: 189px;
+  height: 70px;
+  top: 15px;
+  left: 1228px;
+  cursor: pointer;
+  background: transparent;
+  background: no-repeat center;
+  background-size: cover;
+  border: none;
+  z-index: 29;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.rectangle-button-1 {
+  position: absolute;
+  width: 135px;
+  height: 70px;
+  top: 16px;
+  left: 1051px;
+  cursor: pointer;
+  background: transparent;
+  background: no-repeat center;
+  background-size: cover;
+  border: none;
+  z-index: 26;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.rectangle-button-2 {
+  position: absolute;
+  width: 135px;
+  height: 70px;
+  top: 16px;
+  left: 874px;
+  cursor: pointer;
+  background: transparent;
+  background: no-repeat center;
+  background-size: cover;
+  border: none;
+  z-index: 27;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.rectangle-button-3 {
+  position: absolute;
+  width: 170px;
+  height: 70px;
+  top: 16px;
+  left: 677px;
+  cursor: pointer;
+  background: transparent;
+  background: no-repeat center;
+  background-size: cover;
+  border: none;
+  z-index: 28;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.pharmatech-span {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  width: 328px;
+  height: 60px;
+  top: 24px;
+  left: 131px;
+  font-family: Sora, var(--default-font-family);
+  font-size: 50px;
+  font-weight: 800;
+  line-height: 50px;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -1px;
+  z-index: 24;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.doctores-disponibles-div {
+  position: absolute;
+  width: 125px;
+  height: 53px;
+  top: 24px;
+  left: 878px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 30;
+}
+.doctores-span {
+  position: relative;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+}
+.disponibles-span {
+  position: relative;
+  color: #ffffff;
+  font-family: Sora, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+}
+.calendario-visitas-span {
+  position: absolute;
+  width: 125px;
+  height: 53px;
+  top: 24px;
+  left: 1050px;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  text-overflow: initial;
+  white-space: nowrap;
+  z-index: 30;
+}
+.image-removebg-preview-div {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 31px;
+  left: 1236px;
+  background: url(./assets/images/67b71a9618348678d8c93710cb530a4049a2f921.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 34;
+}
+.departamentos-span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 153px;
+  height: 26px;
+  top: 36px;
+  left: 688px;
+  color: #ffffff;
+  font-family: Inter, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 31;
+}
+.iniciar-sesion-span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 141px;
+  height: 26px;
+  top: 38px;
+  left: 1272px;
+  color: #ffffff;
+  font-family: Sora, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 33;
+}
+.marco-4 {
+  position: absolute;
+  width: 58px;
+  height: 1694px;
+  top: 171px;
+  left: 1376px;
+  background: #cff2f2;
+  border: 2px solid #cff2f2;
+  z-index: 1;
+}
+.image {
+  position: absolute;
+  width: 1333px;
+  height: 324px;
+  top: 206px;
+  left: 17px;
+  background: url(./assets/images/9f22585806ebaf461594edb1312be281e613f8d7.png)
+    no-repeat center;
+  background-size: cover;
+  opacity: 0.5;
+  z-index: 2;
+  border-radius: 39px;
+}
+.group {
+  position: absolute;
+  width: 1243px;
+  height: 186px;
+  top: 309px;
+  left: 98px;
+  z-index: 35;
+  border-radius: 39px;
+}
+.explorando-fronteras {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  width: 1222px;
+  height: 156px;
+  top: 0;
+  left: 21px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: -0.8px;
+  z-index: 37;
+}
+.rectangle {
+  position: absolute;
+  width: 1243px;
+  height: 127px;
+  top: 59px;
+  left: 0;
+  background: rgba(255, 255, 255, 0.6);
+  z-index: 36;
+  border-radius: 39px;
+}
+.quienes-somos {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 697px;
+  height: 80px;
+  top: 555px;
+  left: 653px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 80px;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -1.6px;
+  z-index: 4;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #ffffff;
+}
+.diseno-sin-titulo {
+  position: absolute;
+  width: 685px;
+  height: 661px;
+  top: 581px;
+  left: -118px;
+  background: url(./assets/images/fae744db-f88f-4db8-8d88-89379c9dcd20.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 5;
+  border-radius: 100000px;
+}
+.rectangle-5 {
+  position: absolute;
+  width: 740px;
+  height: 776px;
+  top: 668px;
+  left: 616px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  z-index: 6;
+  border-radius: 158px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.empresa-farmaceutica {
+  display: flex;
+  align-items: flex-end;
+  position: absolute;
+  width: 542px;
+  height: 300px;
+  top: 690px;
+  left: 731px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: justified;
+  letter-spacing: -0.6px;
+  z-index: 7;
+}
+.group-6 {
+  position: absolute;
+  width: 595px;
+  height: 357px;
+  top: 1032px;
+  left: 707px;
+  z-index: 14;
+  border-radius: 150px;
+}
+.documento-portada-proyecto {
+  position: absolute;
+  width: 595px;
+  height: 357px;
+  top: 0;
+  left: 0;
+  background: url(./assets/images/0626021c-0b9d-467f-934f-89279e23a036.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 15;
+}
+.group-7 {
+  position: absolute;
+  width: 666px;
+  height: 518px;
+  top: 1295px;
+  left: 25px;
+  z-index: 16;
+  border-radius: 26px;
+}
+.mapa {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 666px;
+  height: 217px;
+  top: 0;
+  left: 0;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: -1.6px;
+  z-index: 17;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.hospital-miami-campus {
+  position: absolute;
+  width: 576px;
+  height: 409px;
+  top: 109px;
+  left: 32px;
+  background: url(./assets/images/dea7571f500b0073b386693d84539b88616d2645.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 18;
+  border-radius: 26px;
+}
+.group-8 {
+  position: absolute;
+  width: 665px;
+  height: 302px;
+  top: 1476px;
+  left: 691px;
+  z-index: 8;
+  border-radius: 50px;
+}
+.rectangle-9 {
+  position: absolute;
+  width: 620.667px;
+  height: 290px;
+  top: 50%;
+  left: 50%;
+  background: url(./assets/images/1ee92f61-87fc-4ab0-8085-f668c60bffff.png)
+    no-repeat center;
+  background-size: cover;
+  transform: translate(-50%, -52.07%);
+  z-index: 9;
+  border-radius: 50px;
+}
+.agendar-visita {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 665px;
+  height: 126px;
+  top: calc(50% - 117px);
+  left: calc(50% - 332.5px);
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 33.6px;
+  text-align: center;
+  text-overflow: initial;
+  letter-spacing: -0.56px;
+  z-index: 10;
+  overflow: hidden;
+}
+.group-a {
+  position: absolute;
+  width: 665px;
+  height: 142px;
+  top: 160px;
+  left: 0;
+  z-index: 11;
+  border-radius: 50px;
+}
+.rectangle-button-b {
+  position: absolute;
+  width: 218.775px;
+  height: 66px;
+  top: 0;
+  left: 223.366px;
+  cursor: pointer;
+  background: transparent;
+  background: no-repeat center;
+  background-size: cover;
+  border: none;
+  z-index: 12;
+}
+.registro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 665px;
+  height: 126px;
+  top: calc(50% - 55px);
+  left: calc(50% - 332.5px);
+  color: #ffffff;
+  font-family: Sora, var(--default-font-family);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: -0.6px;
+  z-index: 13;
+}
+.rectangle-c {
+  position: absolute;
+  width: 1440px;
+  height: 26px;
+  top: 1839px;
+  left: 0;
+  border-bottom: 1px solid #000000;
+  z-index: 19;
+}
+.aviso-privacidad {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 273px;
+  height: 25px;
+  top: 1922px;
+  left: 18px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 25px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  letter-spacing: -0.5px;
+  z-index: 21;
+}
+.condiciones-uso {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  width: 278px;
+  height: 25px;
+  top: 1922px;
+  left: 303px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 25px;
+  font-weight: 200;
+  line-height: 25px;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  letter-spacing: -0.5px;
+  z-index: 22;
+}
