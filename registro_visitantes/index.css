@@ -1,0 +1,201 @@
+/* Define variables globales para el estilo de fuentes por defecto */
+:root {
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", Helvetica, Arial, "PingFang SC",
+    "Hiragino Sans GB", "Microsoft Yahei UI", "Microsoft Yahei",
+    "Source Han Sans CN", sans-serif;
+}
+
+/* Establece el contenedor principal */
+.main-container {
+  overflow: hidden; /* Evita que el contenido del contenedor se desborde */
+}
+
+/* Aplica el modelo de caja de borde a todos los elementos dentro del contenedor principal */
+.main-container,
+.main-container * {
+  box-sizing: border-box;
+}
+
+/* Elimina el contorno alrededor de los elementos de entrada, select, textarea y botón */
+input,
+select,
+textarea,
+button {
+  outline: 0;
+}
+
+/* Establece el tamaño y la posición del contenedor principal */
+.main-container {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  margin: 0 auto; /* Centra el contenedor horizontalmente en la página */
+  overflow: hidden; /* Evita que el contenido del contenedor se desborde */
+}
+
+/* Establece el estilo del encabezado */
+.header {
+  position: relative;
+  width: 1440px;
+  height: 127px;
+  margin: 56px 0 0 -2px; /* Margen superior, sin margen en los demás lados */
+  background: #ffffff; /* Fondo blanco */
+  border: 1px solid #000000; /* Borde sólido de 1px de color negro */
+  z-index: 3; /* Establece la posición del encabezado en el eje Z */
+  overflow: hidden; /* Evita que el contenido del encabezado se desborde */
+  border-radius: 5px; /* Borde redondeado con un radio de 5px */
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25); /* Sombra con desplazamiento en X e Y y suavizado */
+}
+
+/* Establece el estilo de la imagen dentro del encabezado */
+.image {
+  position: absolute; /* Posiciona la imagen de forma absoluta */
+  width: 151px; /* Ancho de la imagen */
+  height: 103px; /* Altura de la imagen */
+  top: -1px; /* Posición superior de la imagen en relación con el contenedor */
+  left: 472px; /* Posición izquierda de la imagen en relación con el contenedor */
+  background: url(./assets/images/19aca617-5d36-46a8-8225-71cb6170bcba.png) /* URL de la imagen de fondo */
+    no-repeat center; /* No repetir la imagen y centrarla */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el contenedor */
+  z-index: 5; /* Establece la posición de la imagen en el eje Z */
+}
+
+.cart-button {
+  position: absolute;
+  width: 130px;
+  height: 90px;
+  top: 16px;
+  right: 74px;
+  background: linear-gradient(180deg, #ffffff, #ffffff);
+  z-index: 6;
+  overflow: hidden;
+  border-radius: 100px;
+}
+.portada-proyecto {
+  position: relative;
+  width: 120px;
+  height: 90px;
+  margin: 0 0 0 5px;
+  background: url(./assets/images/d93dba2a-523f-4e9c-852e-37b8e5cd5db6.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 7;
+}
+.pharmatech {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  height: 45px;
+  top: 45px;
+  left: 613px;
+  color: #bda567;
+  font-family: Newsreader, var(--default-font-family);
+  font-size: 45px;
+  font-weight: 500;
+  line-height: 45px;
+  text-align: left;
+  white-space: nowrap;
+  letter-spacing: -0.45px;
+  z-index: 4;
+}
+.rectangle {
+  position: relative;
+  width: 734px;
+  height: 458px;
+  margin: 111px 0 0 353px;
+  font-size: 0px;
+  background: #ffffff;
+  z-index: 2;
+  overflow: visible auto;
+  border-radius: 50px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.verifica-robot {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  width: 589px;
+  height: 37px;
+  margin: 35px 0 0 72px;
+  color: #000000;
+  font-family: Sora, var(--default-font-family);
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 37px;
+  text-align: center;
+  white-space: nowrap;
+  letter-spacing: -0.9px;
+  z-index: 8;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #c8a9a9;
+}
+.image-1 {
+  position: relative;
+  width: 551px;
+  height: 123px;
+  margin: 95px 0 0 89px;
+  background: url(./assets/images/b91493a11eb335089e659ab9dd029fde9fa121f1.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 13;
+}
+.no {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 32px;
+  height: 26px;
+  top: 28px;
+  left: 402px;
+  color: #fafafa;
+  font-family: Sora, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 9;
+}
+.rectangle-2 {
+  position: relative;
+  width: 174px;
+  height: 70px;
+  margin: 52px 0 0 280px;
+  background: url(./assets/images/fc09a614-49f1-462e-8fd9-7e127977cd09.png)
+    no-repeat center;
+  background-size: cover;
+  z-index: 11;
+}
+.siguiente {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100px;
+  height: 26px;
+  top: 20px;
+  left: 36px;
+  color: #fafafa;
+  font-family: Sora, var(--default-font-family);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 12;
+}
+.rectangle-3 {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  top: 0;
+  left: -2px;
+  background: url(./assets/images/3d6fb9b4-faf7-49dd-9f78-20f7692d9b97.png)
+    no-repeat center;
+  background-size: cover;
+  border-radius: 70px;
+}
